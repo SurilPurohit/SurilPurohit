@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/SurilPurohit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SurilPurohit-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/suril_08/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-suril_08-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:suril.p@somaiya.edu"><img alt="Email" src="https://img.shields.io/badge/Email-suril.p@somaiya.edu-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.instagram.com/suril_08/"><img alt="Instagram" src="https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white"></a>
+<a href="mailto:suril.p@somaiya.edu"><img alt="Email" src="https://img.shields.io/static/v1?label=suril.p@somaiya.edu&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>  
   
 👨‍💻 21 Years old Developer  
 👨‍🎓 Studying Information Technology in Mumbai,India  
