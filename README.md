@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 [![me@lucafluri.ch](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@lucafluri.ch)
 -->
 
-<a href="https://www.linkedin.com/in/SurilPurohit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/suril_08/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:suril.p@somaiya.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.linkedin.com/in/SurilPurohit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SurilPurohit-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/suril_08/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-suril_08-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:suril.p@somaiya.edu"><img alt="Email" src="https://img.shields.io/badge/Email-suril.p@somaiya.edu-blue?style=flat-square&logo=gmail"></a>  
   
 👨‍💻 21 Years old Developer  
 👨‍🎓 Studying Information Technology in Mumbai,India  
-🚧 **Current Project:** [Sports Analysis](https://github.com/lucafluri/price_tracker)
+🚧 **Current Project:** [Sports Analysis](https://github.com/SurilPurohit/Sports-analysis.git)
 
 ⭐️ From [Suril Purohit](https://github.com/SurilPurohit)
