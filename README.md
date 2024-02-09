@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/SurilPurohit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SurilPurohit-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/suril_08/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-suril_08-blue?style=flat-square&logo=instagram&logoColor=white"></a>
-<a href="mailto:suril.p@somaiya.edu"><img alt="Email" src="https://img.shields.io/badge/Email-suril.p@somaiya.edu-blue?style=flat-square&logo=gmail&logoColor=white"></a>  
+<a href="mailto:suril.purohit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-suril.purohit@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>  
   
-👨‍💻 21 Years old Developer  
-👨‍🎓 Studying Information Technology in Mumbai,India  
-🚧 **Current Project:** [Sports Analysis](https://github.com/SurilPurohit/Sports-analysis.git)
+👨‍💻 24 Years old Developer  
+👨‍🎓 Studying Artificial Intelligence and Machine Learning at Lambton in Toronto, Canada
 
 ⭐️ From [Suril Purohit](https://github.com/SurilPurohit)
