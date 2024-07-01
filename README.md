@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/SurilPurohit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SurilPurohit-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:suril.purohit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-suril.purohit@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>  
   
-👨‍💻 24 Years old  
+👨‍💻 25 Years old  
 👨‍🎓 Studying Artificial Intelligence and Machine Learning at Lambton in Toronto, Canada
 
 ⭐️ From [Suril Purohit](https://github.com/SurilPurohit)
